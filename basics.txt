@@ -1,0 +1,1 @@
+git push updates the remote branch with local commits. It is one of the four commands in Git that prompts interaction with the remote repository.
